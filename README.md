@@ -18,7 +18,7 @@
 | Project | Language | Grade | Status |
 |---|---|---|---|
 | [libft](https://github.com/Maxou911/libft) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen?style=flat-square) | ✅ |
-| [get_next_line](https://github.com/Maxou911/get_next_line) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![125/100](https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square) | ✅ |
+| [get_next_line](https://github.com/Maxou911/get_next_line) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen?style=flat-square) | ✅ |
 | [ft_printf](https://github.com/Maxou911/ft_printf) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square) | ✅ |
 | [born2beroot](https://github.com/Maxou911/born2beroot) | ![SysAdmin](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![100/100](https://img.shields.io/badge/100%2F100-brightgreen?style=flat-square) | ✅ |
 | [pipex](https://github.com/Maxou911/pipex) | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) | ![125/100](https://img.shields.io/badge/125%2F100-brightgreen?style=flat-square) | ✅ |
