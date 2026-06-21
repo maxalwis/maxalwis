@@ -34,3 +34,5 @@
 | [Webserv](https://github.com/Maxou911/Webserv) | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |  ![125/100](https://img.shields.io/badge/125%2F100-brightgreen?style=flat-square) | ✅ |
 
 ---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact)
