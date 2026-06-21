@@ -1,4 +1,5 @@
 # 👋 Hey, I'm maxalwis
+  I'm a student from 42 Paris
 
 # 42-Common-Core
 
