@@ -36,3 +36,8 @@
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxalwis&layout=compact)
+
+## 📊 Languages used
+
+![C](https://img.shields.io/badge/language-C-blue)
+![Makefile](https://img.shields.io/badge/language-Makefile-lightgrey)
